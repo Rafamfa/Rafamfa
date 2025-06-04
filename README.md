@@ -23,13 +23,9 @@ Para expandir cada vez mais minha Stack e meu portfólio, estou constantemente a
 #
 <h2> Entre em Contato: </h2>
 <div>
-  <a href="https://www.instagram.com/gustavo.feriani/" target="_blank">
+  <a href="https://www.instagram.com/rafamfzs?igsh=MTkza3FoMzl1b3ZleA%3D%3D&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://discord.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
-  <a href="https://mail.google.com/mail/u/0/#inbox">
-    <img src="https://img.shields.io/badge/-Gmail-00a368?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/gustavo-feriani/" target="_blank">
+  <a href="https://www.linkedin.com/in/rafaellafelix/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 
@@ -37,7 +33,7 @@ Para expandir cada vez mais minha Stack e meu portfólio, estou constantemente a
  ## :mortar_board: Github Stats
 <div>
   <a href="https://github.com/Rafamfa"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guuhferiani&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafamfa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guuhferiani&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
