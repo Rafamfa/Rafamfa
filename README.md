@@ -12,13 +12,13 @@
  #
 <h2> 💻: Sobre Mim </h2>
 
-<div>
-  <p>Prof de Dev Front-End no SENAI e estudante vitalício de programação e tecnologia!</p>
+.<div>
+  <p>P Front-End no SENAI e estudante vitalício de programação e tecnologia!</p.>
 </div>
 
-Estudante em Pós de Inteligência Artificial e Machine Learning. <br>
-E formado em Sistemas para Internet na FAM.<br> 
-Para expandir cada vez mais minha Stack e meu portfólio, estou constantemente adquirindo novas habilidades e desenvolvendo projetos.<br>
+Estudante em Pós de Inteligência Artificial e Machine Learning. <br.>
+E formado em Sistemas para Internet na FAM.<.br> 
+Para expandir cada vez mais minha Stack e meu portfólio, estou constantemente adquirindo novas habilidades e desenvolvendo projetos.<b.r>
 
 #
 <h2> Entre em Contato: </h2>
