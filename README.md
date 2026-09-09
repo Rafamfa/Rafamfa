@@ -10,8 +10,8 @@
   
  #
 <h2> 💻: Sobre Mim </h2>
-  <h3> Sou estudante de Ciência da Computação na FMU, com conclusão prevista para 2030. Tenho interesse em desenvolvimento de software e tecnologia, com conhecimentos em HTML, CSS, JavaScript e ferramentas de desenvolvimento. Também possuo formação em Desenvolvimento Web e Front-End, além de conhecimentos em Photoshop e Excel. Sou uma pessoa criativa, dedicada e com facilidade para aprender, buscando constantemente desenvolver minhas habilidades e adquirir novas experiências na área de tecnologia.
-  </h3>
+  <p> Sou estudante de Ciência da Computação na FMU, com conclusão prevista para 2030. Tenho interesse em desenvolvimento de software e tecnologia, com conhecimentos em HTML, CSS, JavaScript e ferramentas de desenvolvimento. Também possuo formação em Desenvolvimento Web e Front-End, além de conhecimentos em Photoshop e Excel. Sou uma pessoa criativa, dedicada e com facilidade para aprender, buscando constantemente desenvolver minhas habilidades e adquirir novas experiências na área de tecnologia.
+  <p>
 
 #
 <h2> Entre em Contato: </h2>
@@ -22,12 +22,11 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 
- #
- ## :mortar_board: Github Stats
-<div>
-  <a href="https://github.com/Rafamfa"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafamfa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guuhferiani&layout=compact&langs_count=7&theme=dracula"/>
+ 
+🐍 Snake Status
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/guuhferiani/guuhferiani/output/snake-dark.svg" alt="Snake animation">
 </div>
 
 
