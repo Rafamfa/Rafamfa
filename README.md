@@ -10,7 +10,8 @@
   
  #
 <h2> 💻: Sobre Mim </h2>
-
+  <h3> Sou estudante de Ciência da Computação na FMU, com conclusão prevista para 2030. Tenho interesse em desenvolvimento de software e tecnologia, com conhecimentos em HTML, CSS, JavaScript e ferramentas de desenvolvimento. Também possuo formação em Desenvolvimento Web e Front-End, além de conhecimentos em Photoshop e Excel. Sou uma pessoa criativa, dedicada e com facilidade para aprender, buscando constantemente desenvolver minhas habilidades e adquirir novas experiências na área de tecnologia.
+  </h3>
 
 #
 <h2> Entre em Contato: </h2>
