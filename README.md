@@ -22,13 +22,6 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 
- 
-🐍 Snake Status
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/guuhferiani/guuhferiani/output/snake-dark.svg" alt="Snake animation">
-</div>
-
 
 ##
 <div>
