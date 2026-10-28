@@ -8,12 +8,12 @@
   <img src="https://img.shields.io/badge/Photoshop-35b4e8?style=for-the-badge&logo=adobephotoshop&logoColor=white">
 </div>
   
- #
+ 
 <h2> 💻: Sobre Mim </h2>
   <p> Sou estudante de Ciência da Computação na FMU, com conclusão prevista para 2030. Tenho interesse em desenvolvimento de software e tecnologia, com conhecimentos em HTML, CSS, JavaScript e ferramentas de desenvolvimento. Também possuo formação em Desenvolvimento Web e Front-End, além de conhecimentos em Photoshop e Excel. Sou uma pessoa criativa, dedicada e com facilidade para aprender, buscando constantemente desenvolver minhas habilidades e adquirir novas experiências na área de tecnologia.
   <p>
 
-#
+
 <h2> Entre em Contato: </h2>
 <div>
   <a href="https://www.instagram.com/rafamfzs?igsh=MTkza3FoMzl1b3ZleA%3D%3D&utm_source=qr" target="_blank">
@@ -23,12 +23,3 @@
 </div>
 
 
-##
-<div>
-Loanding Snake Status
-</div>
-<div>
-  <picture align="center">    
-    <img src="https://github.com/guuhferiani/guuhferiani/blob/main/snake-dark.svg">
-  </picture>
-</div>    
